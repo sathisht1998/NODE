@@ -1,15 +1,14 @@
 const amount = 9
 
-if (amount<10)  {console.log('small number') }else
-{ console.log('large number') };
+if (amount < 10) { console.log('small number') } else { console.log('large number') };
 
-console.log(`this is the amount value ${amount}`)
-
+console.log(`this is the  the amount value ${amount}`)
 
 
 
 
-setInterval(() =>{
+
+setInterval(() => {
     console.log('hello world')
-},1000)
+}, 1000)
 
